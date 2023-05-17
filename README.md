@@ -9,7 +9,7 @@
 ---
 
 **Страница со списоком**
-![alt text](pic/start.png)
+![alt text](pics/start.png)
 
 
 **Страница добавления элемента**
